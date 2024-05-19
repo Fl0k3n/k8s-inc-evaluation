@@ -1,0 +1,4 @@
+- 1 sender 2 receivers using http
+- 2 UDP spam sinks and 2 UDP spam sources
+- tried increasing traffic, constant traffic, varying traffic
+- 30s time window

@@ -1,0 +1,5 @@
+- 1 sender 2 receivers using http
+- 2 TCP spam sinks and 2 TCP spam sources
+- tried increasing traffic, constant traffic, varying traffic
+- 5s time window
+- increased rate limiting to 1000kBps
