@@ -1,0 +1,12 @@
+All tests from both UDP elephant flow senders
+
+- we have 1000kBps
+- we send 100kBps udp from sender to both rcvrs
+
+1. constant flow of 1000kBps from both elephants flows (1716741567923477325)
+1. constant flow of 1000kBps from both elephants flows (1716741586033390509)
+1. constant flow of 1000kBps from both elephants flows (1716741606797426226)
+2. constant flow of 1100kBps (1716741638371222345)
+3. constant flow of 1200kBps (1716741660916015723)
+1. constant flow of 1000kBps from both elephants flows (1716742247218466495)
+1. constant flow of 1000kBps from both elephants flows (1716742320404784348)
